@@ -9,15 +9,18 @@ public class Enemy : MonoBehaviour
 
     private GameManager manager;
 
+    public Rigidbody2D rb;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    protected void Start()
     {
         manager = FindAnyObjectByType<GameManager>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
-    void Update()
+    protected void Update()
     {
         //transform.Translate(Vector2.down * speed * Time.deltaTime);
 
@@ -31,12 +34,23 @@ public class Enemy : MonoBehaviour
 
     public void getDamage(float damage)
     {
+        Debug.Log("Getting hit");
         hitpoints -= damage;
     }
 
-    void onDeath()
+    public void onDeath()
     {
         manager.addScore(100);
         Destroy(gameObject);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            playerStats ps = collision.gameObject.GetComponent<playerStats>();
+            ps.takeDamage(5f);
+
+        }
     }
 }
