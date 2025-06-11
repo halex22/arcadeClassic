@@ -25,4 +25,15 @@ public class TurrentArmor : Ammo
         rb.AddForce(dir * speed, ForceMode2D.Impulse);
 
     }
+
+    new void OnCollisionEnter2D(Collision2D collision)
+    { 
+      if (collision.gameObject.tag == "Player")
+      { 
+          playerStats ps = collision.gameObject.GetComponent<playerStats>();
+          ps.takeDamage(damage);
+          Destroy(gameObject);
+        }
+    }
+    
 }

@@ -6,6 +6,8 @@ TagManager:
   tags:
   - enemy
   - hazard
+  - BossTurrent
+  - SpaceStation
   layers:
   - Default
   - TransparentFX

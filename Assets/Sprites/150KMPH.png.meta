@@ -1,0 +1,2567 @@
+fileFormatVersion: 2
+guid: ad0ebad8a11f746419f420cb679dc4d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1610889797011049893
+    second: 150KMPH_0
+  - first:
+      213: -7590291082410413332
+    second: 150KMPH_1
+  - first:
+      213: 3082625117106344817
+    second: 150KMPH_2
+  - first:
+      213: -1958142130804513498
+    second: 150KMPH_3
+  - first:
+      213: -3563231285271043728
+    second: 150KMPH_4
+  - first:
+      213: 4511122336575485790
+    second: 150KMPH_5
+  - first:
+      213: -647622366643052312
+    second: 150KMPH_6
+  - first:
+      213: -8026390734249705750
+    second: 150KMPH_7
+  - first:
+      213: -4067924378009296066
+    second: 150KMPH_8
+  - first:
+      213: -3487085948876268098
+    second: 150KMPH_9
+  - first:
+      213: -7083958015723129603
+    second: 150KMPH_10
+  - first:
+      213: -2621617989866918471
+    second: 150KMPH_11
+  - first:
+      213: 2619506579814379351
+    second: 150KMPH_12
+  - first:
+      213: 2277526909888262523
+    second: 150KMPH_13
+  - first:
+      213: -5085411543296663242
+    second: 150KMPH_14
+  - first:
+      213: -1266201422150028352
+    second: 150KMPH_15
+  - first:
+      213: -4191975023757489570
+    second: 150KMPH_16
+  - first:
+      213: -7385360000947551483
+    second: 150KMPH_17
+  - first:
+      213: 102733098969079064
+    second: 150KMPH_18
+  - first:
+      213: 1738807330405798765
+    second: 150KMPH_19
+  - first:
+      213: 7530676060264612738
+    second: 150KMPH_20
+  - first:
+      213: -4348254840154839995
+    second: 150KMPH_21
+  - first:
+      213: 6078307317499208733
+    second: 150KMPH_22
+  - first:
+      213: 1085394210361134590
+    second: 150KMPH_23
+  - first:
+      213: 1156494882559653180
+    second: 150KMPH_24
+  - first:
+      213: 7677825148650152147
+    second: 150KMPH_25
+  - first:
+      213: -3734806268881779829
+    second: 150KMPH_26
+  - first:
+      213: -146100452854983532
+    second: 150KMPH_27
+  - first:
+      213: -8720074486184296027
+    second: 150KMPH_28
+  - first:
+      213: -5621484670522585512
+    second: 150KMPH_29
+  - first:
+      213: -6049726897334436811
+    second: 150KMPH_30
+  - first:
+      213: 1356287442659233595
+    second: 150KMPH_31
+  - first:
+      213: -5340214806399562867
+    second: 150KMPH_32
+  - first:
+      213: 8194969026401984408
+    second: 150KMPH_33
+  - first:
+      213: -9087833630576693769
+    second: 150KMPH_34
+  - first:
+      213: 7388501931134437579
+    second: 150KMPH_35
+  - first:
+      213: 4729164300464718135
+    second: 150KMPH_36
+  - first:
+      213: -6501187403980969666
+    second: 150KMPH_37
+  - first:
+      213: -8853592092102853900
+    second: 150KMPH_38
+  - first:
+      213: -5395849707715378093
+    second: 150KMPH_39
+  - first:
+      213: -8326041270712286391
+    second: 150KMPH_40
+  - first:
+      213: -6856697107891161754
+    second: 150KMPH_41
+  - first:
+      213: 2955287488552319562
+    second: 150KMPH_42
+  - first:
+      213: -3907266561525851513
+    second: 150KMPH_43
+  - first:
+      213: 8009290505187648155
+    second: 150KMPH_44
+  - first:
+      213: -741229434754619019
+    second: 150KMPH_45
+  - first:
+      213: -9114005691904104312
+    second: 150KMPH_46
+  - first:
+      213: -7497091462706380014
+    second: 150KMPH_47
+  - first:
+      213: 5107124347330671056
+    second: 150KMPH_48
+  - first:
+      213: -8290538390451813133
+    second: 150KMPH_49
+  - first:
+      213: 3672723887629877257
+    second: 150KMPH_50
+  - first:
+      213: -4073249390679735824
+    second: 150KMPH_51
+  - first:
+      213: 7634318170721693898
+    second: 150KMPH_52
+  - first:
+      213: 4669085625359567854
+    second: 150KMPH_53
+  - first:
+      213: 7016949916418570012
+    second: 150KMPH_54
+  - first:
+      213: -4835566866114735550
+    second: 150KMPH_55
+  - first:
+      213: -8237469641093513945
+    second: 150KMPH_56
+  - first:
+      213: 4982970027089253176
+    second: 150KMPH_57
+  - first:
+      213: 9211175586928454094
+    second: 150KMPH_58
+  - first:
+      213: 5997569076980400053
+    second: 150KMPH_59
+  - first:
+      213: 8814954710275069929
+    second: 150KMPH_60
+  - first:
+      213: -7238885420786334273
+    second: 150KMPH_61
+  - first:
+      213: 5719956395337648956
+    second: 150KMPH_62
+  - first:
+      213: -6794537370388542247
+    second: 150KMPH_63
+  - first:
+      213: -2748866383226547835
+    second: 150KMPH_64
+  - first:
+      213: 8400536390295924393
+    second: 150KMPH_65
+  - first:
+      213: -3671921469811688540
+    second: 150KMPH_66
+  - first:
+      213: -7542055246056380497
+    second: 150KMPH_67
+  - first:
+      213: 7826814971739401786
+    second: 150KMPH_68
+  - first:
+      213: 5387715465834182915
+    second: 150KMPH_69
+  - first:
+      213: 5415311480125014450
+    second: 150KMPH_70
+  - first:
+      213: 761526937322585347
+    second: 150KMPH_71
+  - first:
+      213: -1432034700261657639
+    second: 150KMPH_72
+  - first:
+      213: -3383388984688789166
+    second: 150KMPH_73
+  - first:
+      213: 9025843086555323141
+    second: 150KMPH_74
+  - first:
+      213: -5630919858186444218
+    second: 150KMPH_75
+  - first:
+      213: 807984269633407437
+    second: 150KMPH_76
+  - first:
+      213: 127256872315223930
+    second: 150KMPH_77
+  - first:
+      213: 1582566733565461241
+    second: 150KMPH_78
+  - first:
+      213: 6890238474041887536
+    second: 150KMPH_79
+  - first:
+      213: 734811374325397123
+    second: 150KMPH_80
+  - first:
+      213: 4941349051082956143
+    second: 150KMPH_81
+  - first:
+      213: 947298422367408218
+    second: 150KMPH_82
+  - first:
+      213: -7595738539184628173
+    second: 150KMPH_83
+  - first:
+      213: -7894914344696660766
+    second: 150KMPH_84
+  - first:
+      213: -7990714254040079638
+    second: 150KMPH_85
+  - first:
+      213: -4792678035334353091
+    second: 150KMPH_86
+  - first:
+      213: -931347626024642623
+    second: 150KMPH_87
+  - first:
+      213: 2125067632394840165
+    second: 150KMPH_88
+  - first:
+      213: -4575777178698239834
+    second: 150KMPH_89
+  - first:
+      213: 8255368714493805778
+    second: 150KMPH_90
+  - first:
+      213: -5388900480339681093
+    second: 150KMPH_91
+  - first:
+      213: -2200459605980264551
+    second: 150KMPH_92
+  - first:
+      213: 4260838852621329042
+    second: 150KMPH_93
+  - first:
+      213: -1792515906288809563
+    second: 150KMPH_94
+  - first:
+      213: 100834753471763985
+    second: 150KMPH_95
+  - first:
+      213: 572423840960906756
+    second: 150KMPH_96
+  - first:
+      213: 5991996464906897849
+    second: 150KMPH_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 150KMPH_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad052b4cb70b5610800000000000000
+      internalID: 1610889797011049893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2bc13c97ed9a690800000000000000
+      internalID: -7590291082410413332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17312d8263fa7ca20800000000000000
+      internalID: 3082625117106344817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625aba15b1843d4e0800000000000000
+      internalID: -1958142130804513498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0716cdc560cdc8ec0800000000000000
+      internalID: -3563231285271043728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5779e93dd9ba9e30800000000000000
+      internalID: 4511122336575485790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0a4a783ee2307f0800000000000000
+      internalID: -647622366643052312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee3f8027288c9090800000000000000
+      internalID: -8026390734249705750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33aa9bb454db87c0800000000000000
+      internalID: -4067924378009296066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd59fb0ec16b9fc0800000000000000
+      internalID: -3487085948876268098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4ba0597b9b0bd90800000000000000
+      internalID: -7083958015723129603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd653104542e9bd0800000000000000
+      internalID: -2621617989866918471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f62a80b5b5a5420800000000000000
+      internalID: 2619506579814379351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71784e58a66b9f10800000000000000
+      internalID: 2277526909888262523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631a121252dfc69b0800000000000000
+      internalID: -5085411543296663242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c337a2e38c8d6ee0800000000000000
+      internalID: -1266201422150028352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a00a90dec13d5c0800000000000000
+      internalID: -4191975023757489570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503842d553ee18990800000000000000
+      internalID: -7385360000947551483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d1abe853bfc6100800000000000000
+      internalID: 102733098969079064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63deaded0c712810800000000000000
+      internalID: 1738807330405798765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2834c924af5528860800000000000000
+      internalID: 7530676060264612738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544a2bbc245e7a3c0800000000000000
+      internalID: -4348254840154839995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a23f0d4c7a5450800000000000000
+      internalID: 6078307317499208733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd47dd9848101f00800000000000000
+      internalID: 1085394210361134590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c357683e7f1bc0010800000000000000
+      internalID: 1156494882559653180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d06ad83b4d1d8a60800000000000000
+      internalID: 7677825148650152147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83466e7c7d4b2cc0800000000000000
+      internalID: -3734806268881779829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4941e068962f8fdf0800000000000000
+      internalID: -146100452854983532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1c90ca4721cf680800000000000000
+      internalID: -8720074486184296027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e823fd9797cf1b0800000000000000
+      internalID: -5621484670522585512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 129
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c3140907d0b0ca0800000000000000
+      internalID: -6049726897334436811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_31
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fc6014e3082d210800000000000000
+      internalID: 1356287442659233595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 576
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bc5406deeb3e5b0800000000000000
+      internalID: -5340214806399562867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fd40429e06ab170800000000000000
+      internalID: 8194969026401984408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fda0af567781e180800000000000000
+      internalID: -9087833630576693769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc84e834c5b398660800000000000000
+      internalID: 7388501931134437579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_36
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73188a500ed51a140800000000000000
+      internalID: 4729164300464718135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 109
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e396877308427c5a0800000000000000
+      internalID: -6501187403980969666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa700c86e8b12580800000000000000
+      internalID: -8853592092102853900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 109
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ca3e77471e15b0800000000000000
+      internalID: -5395849707715378093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c3f9d395f37c80800000000000000
+      internalID: -8326041270712286391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 109
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f2b70f4e18d0a0800000000000000
+      internalID: -6856697107891161754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_42
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a3154205a430920800000000000000
+      internalID: 2955287488552319562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 109
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5d7d83c996c9c0800000000000000
+      internalID: -3907266561525851513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b926e988747b62f60800000000000000
+      internalID: 8009290505187648155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 109
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579236c91cf96b5f0800000000000000
+      internalID: -741229434754619019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_46
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888ea2d7c1c848180800000000000000
+      internalID: -9114005691904104312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_47
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 109
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c5c4390bf4f790800000000000000
+      internalID: -7497091462706380014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b462098620e640800000000000000
+      internalID: 5107124347330671056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f48160524712fc80800000000000000
+      internalID: -8290538390451813133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004548bae228f230800000000000000
+      internalID: 3672723887629877257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f145fa9249e877c0800000000000000
+      internalID: -4073249390679735824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac03d2c8deb82f960800000000000000
+      internalID: 7634318170721693898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb807d63acebc040800000000000000
+      internalID: 4669085625359567854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f5d685c6316160800000000000000
+      internalID: 7016949916418570012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24215912e8d94ecb0800000000000000
+      internalID: -4835566866114735550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_56
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d7e826101aead80800000000000000
+      internalID: -8237469641093513945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d217b6d0172540800000000000000
+      internalID: 4982970027089253176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ee96b46ba4df70800000000000000
+      internalID: 9211175586928454094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb84d8c45ab3350800000000000000
+      internalID: 5997569076980400053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e71a19fa92055a70800000000000000
+      internalID: 8814954710275069929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_61
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c64420105a8b90800000000000000
+      internalID: -7238885420786334273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b03d2390e516f40800000000000000
+      internalID: 5719956395337648956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dccfd8b244f4b1a0800000000000000
+      internalID: -6794537370388542247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d4cca6901ad9d0800000000000000
+      internalID: -2748866383226547835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aea45ac653b49470800000000000000
+      internalID: 8400536390295924393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab7ebcb0e6ba0dc0800000000000000
+      internalID: -3671921469811688540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_67
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7207696bc355790800000000000000
+      internalID: -7542055246056380497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e6c31afbe6e9c60800000000000000
+      internalID: 7826814971739401786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_69
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309bcebbba205ca40800000000000000
+      internalID: 5387715465834182915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b142f0891d072b40800000000000000
+      internalID: 5415311480125014450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_71
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30df00af6bc719a00800000000000000
+      internalID: 761526937322585347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_72
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3fed00704602ce0800000000000000
+      internalID: -1432034700261657639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b7a6f4a9cb01d0800000000000000
+      internalID: -3383388984688789166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9b8c577c324d70800000000000000
+      internalID: 9025843086555323141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_75
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642aa1e0934fad1b0800000000000000
+      internalID: -5630919858186444218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_76
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc94a9f8969863b00800000000000000
+      internalID: 807984269633407437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f739d737b14c100800000000000000
+      internalID: 127256872315223930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_78
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f205833f0866f510800000000000000
+      internalID: 1582566733565461241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_79
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b0ff6d26b0f9f50800000000000000
+      internalID: 6890238474041887536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_80
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386f49f3d03923a00800000000000000
+      internalID: 734811374325397123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 576
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d530518c2339440800000000000000
+      internalID: 4941349051082956143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a505f7965ea752d00800000000000000
+      internalID: 947298422367408218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_83
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 38
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ed725ea04869690800000000000000
+      internalID: -7595738539184628173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_84
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec38388b31af6290800000000000000
+      internalID: -7894914344696660766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_85
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae26a4af8b74b1190800000000000000
+      internalID: -7990714254040079638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f241538bcfc7db0800000000000000
+      internalID: -4792678035334353091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_87
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 38
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d564c4403313f0800000000000000
+      internalID: -931347626024642623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_88
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5682398a0c1cd7d10800000000000000
+      internalID: 2125067632394840165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_89
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 38
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a03a5446e29f70c0800000000000000
+      internalID: -4575777178698239834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_90
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4c6456b16f09270800000000000000
+      internalID: 8255368714493805778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_91
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 38
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0eb639097c635b0800000000000000
+      internalID: -5388900480339681093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_92
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99743fa95a56671e0800000000000000
+      internalID: -2200459605980264551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_93
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 38
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2926daf8c5a812b30800000000000000
+      internalID: 4260838852621329042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_94
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a90b67c744bf17e0800000000000000
+      internalID: -1792515906288809563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_95
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 38
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d2bd8cac366100800000000000000
+      internalID: 100834753471763985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_96
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40680755378a1f700800000000000000
+      internalID: 572423840960906756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 150KMPH_97
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 38
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b90c22b909d72350800000000000000
+      internalID: 5991996464906897849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

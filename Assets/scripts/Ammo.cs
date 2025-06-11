@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class Ammo : MonoBehaviour
 {
@@ -30,6 +31,17 @@ public class Ammo : MonoBehaviour
             Enemy enemy = collision.gameObject.GetComponent<Enemy>();
             enemy.getDamage(damage);
             lifespan = 0;
+        }
+
+        if (collision.gameObject.tag == "BossTurrent")
+        {
+            BossTurrent turrent = collision.gameObject.GetComponent<BossTurrent>();
+            turrent.Damage(damage);
+        }
+
+        if (collision.gameObject.tag == "SpaceStation")
+        {
+
         }
         Debug.Log("collision");
     }
